@@ -1,0 +1,14 @@
+{
+  "item.strawberry-mod.strawberry": "Клубника",
+  "item.strawberry-mod.strawberry_bush": "Куст клубники",
+  "block.strawberry-mod.strawberry_bush": "Куст клубники",
+  "item.strawberry-mod.strawberry_jam": "Клубничное варенье",
+  "itemGroup.strawberry-mod.strawberry": "Клубника",
+  "advancement.strawberry-mod.like_at_grandmas.title": "Как у бабушки",
+  "advancement.strawberry-mod.like_at_grandmas.description": "Приготовьте что-то по-настоящему вкусное",
+  "item.strawberry-mod.strawberry_milk_bucket": "Ведро клубничного молока",
+  "entity.strawberry-mod.strawberry_cow": "Клубничная корова",
+  "item.strawberry-mod.strawberry_cow_spawn_egg": "Яйцо призыва клубничной коровы",
+  "advancement.strawberry-mod.yum_yum.title": "Ням-ням",
+  "advancement.strawberry-mod.yum_yum.description": "Клубничные коровы дают клубничное молоко?"
+}

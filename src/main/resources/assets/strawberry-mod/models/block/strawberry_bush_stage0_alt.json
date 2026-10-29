@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/tinted_cross",
+  "textures": {
+    "cross": "strawberry-mod:block/strawberry_bush_stage0_alt_tint"
+  }
+}

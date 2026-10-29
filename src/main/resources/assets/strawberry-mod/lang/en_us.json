@@ -1,0 +1,14 @@
+{
+  "item.strawberry-mod.strawberry": "Strawberry",
+  "item.strawberry-mod.strawberry_bush": "Strawberry Bush",
+  "block.strawberry-mod.strawberry_bush": "Strawberry Bush",
+  "item.strawberry-mod.strawberry_jam": "Strawberry Jam",
+  "itemGroup.strawberry-mod.strawberry": "Strawberries",
+  "advancement.strawberry-mod.like_at_grandmas.title": "Like at grandma's",
+  "advancement.strawberry-mod.like_at_grandmas.description": "Cook something really delicious",
+  "item.strawberry-mod.strawberry_milk_bucket": "Strawberry Milk Bucket",
+  "entity.strawberry-mod.strawberry_cow": "Strawberry Cow",
+  "item.strawberry-mod.strawberry_cow_spawn_egg": "Strawberry Cow Spawn Egg",
+  "advancement.strawberry-mod.yum_yum.title": "Yum-yum",
+  "advancement.strawberry-mod.yum_yum.description": "Do strawberry cows produce strawberry milk?"
+}

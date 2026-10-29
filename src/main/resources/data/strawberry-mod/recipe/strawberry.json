@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "food",
+  "ingredients": [
+    "minecraft:sweet_berries"
+  ],
+  "result": {
+    "id": "strawberry-mod:strawberry",
+    "count": 2
+  }
+}

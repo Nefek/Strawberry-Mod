@@ -1,0 +1,7 @@
+{
+  "parent": "strawberry-mod:block/strawberry_bush_tinted_cross",
+  "textures": {
+    "foliage": "strawberry-mod:block/strawberry_bush_stage3_tint",
+    "accent": "strawberry-mod:block/strawberry_bush_stage3_overlay"
+  }
+}

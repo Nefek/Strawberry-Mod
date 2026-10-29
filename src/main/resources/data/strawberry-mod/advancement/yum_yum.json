@@ -1,0 +1,35 @@
+{
+  "parent": "strawberry-mod:like_at_grandmas",
+  "display": {
+    "icon": {
+      "id": "strawberry-mod:strawberry_milk_bucket"
+    },
+    "title": {
+      "translate": "advancement.strawberry-mod.yum_yum.title"
+    },
+    "description": {
+      "translate": "advancement.strawberry-mod.yum_yum.description"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "strawberry_milk_bucket": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "strawberry-mod:strawberry_milk_bucket"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "strawberry_milk_bucket"
+    ]
+  ]
+}

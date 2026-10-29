@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "food",
+  "ingredients": [
+    "strawberry-mod:strawberry",
+    "strawberry-mod:strawberry",
+    "strawberry-mod:strawberry",
+    "minecraft:sugar"
+  ],
+  "result": {
+    "id": "strawberry-mod:strawberry_jam",
+    "count": 1
+  }
+}

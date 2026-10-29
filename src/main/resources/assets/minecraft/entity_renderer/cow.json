@@ -1,0 +1,5 @@
+{
+  "entity": "minecraft:cow",
+  "model": "minecraft:cow",
+  "texture": "minecraft:entity/cow/temperate_cow"
+}

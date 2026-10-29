@@ -1,0 +1,5 @@
+{
+  "entity": "strawberry-mod:strawberry_cow",
+  "model": "minecraft:cow",
+  "texture": "strawberry-mod:entity/strawberry_cow/strawberry_cow"
+}
